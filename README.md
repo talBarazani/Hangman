@@ -1,5 +1,5 @@
 
-# PROJECT BLAH BLAH
+# PROJECT Hangman
 
 ## Requirements
 
